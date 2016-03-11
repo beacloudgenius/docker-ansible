@@ -1,0 +1,4 @@
+# amazon.cloudgeni.us ansible_ssh_host=54.193.95.78 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
+
+
+digitalocean.cloudgeni.us ansible_ssh_host=104.236.181.25 ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/id_rsa
