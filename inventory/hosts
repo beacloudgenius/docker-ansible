@@ -1,4 +1,7 @@
-# amazon.cloudgeni.us ansible_ssh_host=54.193.95.78 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=~/.ssh/id_rsa
+#google.cloudgeni.us ansible_host=54.123.95.78 ansible_user=ubuntu ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
 
 
-digitalocean.cloudgeni.us ansible_ssh_host=104.236.181.25 ansible_ssh_user=root ansible_ssh_private_key_file=~/.ssh/id_rsa
+amazon.cloudgeni.us ansible_host=52.38.96.108 ansible_user=ubuntu ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
+azure.cloudgeni.us ansible_host=40.85.153.190 ansible_user=nilesh ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
+digitalocean.cloudgeni.us ansible_host=138.68.14.73 ansible_user=root ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
+latefordinner   ansible_host=51.15.214.157  ansible_user=root ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
