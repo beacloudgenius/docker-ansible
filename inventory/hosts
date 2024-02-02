@@ -1,4 +1,5 @@
-mmdocker.cloudgeni.us ansible_user=cloudgenius ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
+hetzner ansible_host=5.78.109.225 ansible_user=root ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
+
 
 #amazon.cloudgeni.us ansible_host=52.38.96.108 ansible_user=ubuntu ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3
 #digitalocean.cloudgeni.us ansible_host=138.68.14.73 ansible_user=root ansible_private_key_file=~/.ssh/id_rsa ansible_python_interpreter=/usr/bin/python3

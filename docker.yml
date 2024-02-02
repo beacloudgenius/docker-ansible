@@ -4,6 +4,4 @@
   hosts: all
   become: yes
   roles:
-    - role: angstwad.docker_ubuntu
-      kernel_pkg_state: present
-      docker_group_members: [ "{{ username }}" ]
+    - geerlingguy.docker
